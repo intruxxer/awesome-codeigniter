@@ -80,6 +80,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Refinery](https://github.com/rougin/refinery) - "Ready-to-eat" migrations for CodeIgniter.
 * [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance.
 * [CodeIgniter-Aauth](https://github.com/emreakay/CodeIgniter-Aauth) - Authorization, authentication and User Management library for CodeIgniter 2.x and 3.x to make easy user management and permission operations.
+* [Codeigniter-QR Code Generator](https://github.com/dwisetiyadi/CodeIgniter-PHP-QR-Code) - a CI PHP-based QR Code Generator
 
 ## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
